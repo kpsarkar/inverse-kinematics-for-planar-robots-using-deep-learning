@@ -1,10 +1,10 @@
 # inverse-kinematics-for-planar-robots-using-deep-learning
-The project showcases how Deep Learning can be used to train and Test a Inverse-Kinematic Model that can predict the Joint Angles of a Planar Robot given the end effector positions.
+The project showcases how Deep Learning can be used to Train and Test a Inverse-Kinematic Model that can predict the Joint Angles of a Planar Robot given the end effector positions.
 The project starts by demonstrating how to carry out work space analysis of a robot.
 The project then teaches how to create a Data Set for training a Inverse-Kinematic Prediction Model.
 The project then fianlly shows how training, testing and evaluation of the model is to be carried out
 
-# The Code.
+# The Code
 First- Run the python file "Code for Work Space Analysis of 2R Manipulator.py" for to visualise the work space of a 2R Robot, for which we will be training the model.
 
 Second- Run the python file "Code Formulation of dataset.py" to create the necessary dataset corresponding two the same work space, to carry out training. A copy of the output dataset created in this set has been already uploaded as "mydataset2.csv"
