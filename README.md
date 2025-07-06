@@ -1,3 +1,6 @@
+![License: Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-red.svg)
+![License: Commercial](https://img.shields.io/badge/License-Commercial-blue.svg)
+
 # Inverse-kinematics-for-planar-robots-using-deep-learning
 The project showcases how Deep Learning can be used to Train and Test a Inverse-Kinematic Model that can predict the Joint Angles of a Planar Robot given the end effector positions.
 The project starts by demonstrating how to carry out work space analysis of a robot.
@@ -13,3 +16,16 @@ Third- Run the python file "Code for ANN Model Training for Inverse Kinematic So
 
 ## Note
 The Model can be further optimised to reduce the loss and give better accuracy.
+
+## 📜 License
+
+This project is **dual‑licensed**:
+
+| Use case                       | License file                         |
+|--------------------------------|--------------------------------------|
+| 🔒 Free, non‑commercial, no modifications | `Non-Commercial_LICENSE.txt`         |
+| 💼 Commercial use (with rights to modify & redistribute) | `LICENSE.txt`            |
+
+- **Non‑Commercial** users may use and redistribute the unmodified code at no cost, under the terms in [Non‑Commercial_LICENSE](https://github.com/kpsarkar/inverse-kinematics-for-planar-robots-using-deep-learning/blob/main/Non-Commercial_LICENSE).  
+- **Commercial** users wishing to integrate, modify, or redistribute this code in a product or service **must** obtain a commercial license—see [LICENSE.txt](https://github.com/kpsarkar/inverse-kinematics-for-planar-robots-using-deep-learning/blob/main/LICENSE) or email kumarprasenjeetsarkar@gmail.com.
+
